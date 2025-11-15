@@ -18,6 +18,7 @@ body{
     background-color: rgb(183, 183, 183);
     width: 300px;
     border-radius: 24px;
+    
 
 }
 
@@ -43,9 +44,24 @@ body{
 }
 .texto{
     text-align: center;
+    
 }
+.footer{
+    display: flex; 
+    gap: 35px;
+    
+ }
 .show-more {
     background-color: rgb(149, 149, 255);
+    width: 100px;
+    padding: 6px 0px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.Etiqueta{
+    
+    background-color: rgb(217, 217, 221);
     width: 100px;
     padding: 6px 0px;
     border: none;
